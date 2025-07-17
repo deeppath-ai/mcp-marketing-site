@@ -28,7 +28,9 @@
 
 ## <div align="center">▶️Quick Start</div>
 
-### CLI
+
+## 部署指南
+
 ~~~bash
 npx -y mcp-marketing-site
 ~~~
@@ -48,6 +50,11 @@ npx -y mcp-marketing-site
     }
 }
 ~~~
+
+
+## 使用示例
+
+帮我评估下 https://www.alibaba.com/ 落地页
 
 
 ## <div align="center">💭Murmurs</div>
